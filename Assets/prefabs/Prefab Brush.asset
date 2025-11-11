@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Prefab Brush
   m_EditorClassIdentifier: Assembly-CSharp::PrefabBrush
   m_Cells:
-  - m_GameObject: {fileID: 2052443848608882684, guid: d4ba42f0784bbb64095b8f66fce1a7b0, type: 3}
+  - m_GameObject: {fileID: 5647737085317671390, guid: d4ba42f0784bbb64095b8f66fce1a7b0, type: 3}
     m_Offset: {x: 0, y: 0, z: 0}
     m_Scale: {x: 1, y: 1, z: 1}
     m_Orientation: {x: 0, y: 0, z: 0, w: 1}
