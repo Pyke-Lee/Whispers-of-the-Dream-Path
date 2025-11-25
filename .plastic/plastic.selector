@@ -1,4 +1,0 @@
-repository "Whispers of the Dream Path/Whispers of the Dream Path@14568631416926@cloud"
-  path "/"
-    br "/main"
-    co "/main"
